@@ -4,5 +4,9 @@ pipeline {
 
     stages {
 
+        stage('Example') {
+
+        }
+
     }
 }
